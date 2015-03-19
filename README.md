@@ -1,6 +1,6 @@
 # Simple socket.io event emitter
 
-CLI tool to send socket.io.
+CLI tool to send socket.io events.
 
 ## Installation
 
