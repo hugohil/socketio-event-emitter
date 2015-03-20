@@ -13,3 +13,4 @@ npm i
 ```
 node index.js [eventName] [port]
 ```
+Default `eventName` will be 'trigger', and default `port` will be 1992.
